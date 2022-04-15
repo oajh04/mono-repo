@@ -5,7 +5,7 @@
   "license": "MIT",
   "private": true,
   "scripts": {
-    "react-ts-new-service": "hygen react-ts new"
+    "new-react-ts": "hygen react-ts new"
   },
   "workspaces": [
     "services/*"
