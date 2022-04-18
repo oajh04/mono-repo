@@ -2,7 +2,7 @@
 to: services/<%= name %>/package.json
 ---
 {
-  "name": "name": "@service/<%= name %>",,
+  "name": "@service/<%= name %>",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
