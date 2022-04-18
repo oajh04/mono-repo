@@ -1,5 +1,5 @@
 ---
-to: service/<%= name %>/public
+to: services/<%= name %>/public/index.html
 ---
 <!DOCTYPE html>
 <html lang="en">
