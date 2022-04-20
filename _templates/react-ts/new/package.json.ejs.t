@@ -30,7 +30,7 @@ to: services/<%= name %>/package.json
     "browserslist": {
         "production": [
             ">0.2%",
-            "not dead",s
+            "not dead",
             "not op_mini all"
         ],
         "development": [
